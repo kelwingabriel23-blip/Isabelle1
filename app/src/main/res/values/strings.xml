@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Isabelle</string>
+    <string name="accessibility_desc">Permite que a Isabelle toque no botão Enviar do WhatsApp quando você pedir para enviar uma mensagem.</string>
+</resources>
